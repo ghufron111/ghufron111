@@ -14,10 +14,10 @@
 ### Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/cannn_fcy99/">
+  <a href="https://www.instagram.com/ghufront/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fernandocandrayulianto">
+  <a href="https://www.linkedin.com/in/ghufron-tamami/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
