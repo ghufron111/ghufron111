@@ -1,4 +1,4 @@
-![Ghufron Tamami](Header.png)
+![Ghufron Tamami](header.png)
 
 ### Skills
 
