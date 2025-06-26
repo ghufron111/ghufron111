@@ -1,4 +1,4 @@
-![Fernando Candra Yulianto](Header.png)
+![Ghufron Tamami](Header.png)
 
 ### Skills
 
